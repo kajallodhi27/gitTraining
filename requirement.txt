@@ -5,3 +5,4 @@ types mode
 vediocall
 audiocall
 color
+vibrant
